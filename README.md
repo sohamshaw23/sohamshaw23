@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/sohamshaw23/sohamshaw23/blob/main/tempImageETMuJ8.jpeg" />
+</p>
+
 <!-- Header Pixel Avatar Section -->
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="200" alt="Soham Shaw Avatar"/>
