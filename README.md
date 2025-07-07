@@ -3,9 +3,7 @@
 </p>
 
 <!-- Header Pixel Avatar Section -->
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="200" alt="Soham Shaw Avatar"/>
-</div>
+
 
 <h1 align="center">✨ Namaste ! Myself Soham Shaw</h1>
 
