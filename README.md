@@ -22,7 +22,7 @@
 ### 🧑‍🎓 About Me
 - 🎓 I'm currently pursuing **Computer Science Engineering** at **SRM University, Batch of 2028**
 - 🧠 Exploring **Artificial Intelligence**, **Machine Learning**, and **Backend Development**
-- ⚙️ I use daily: `.py`, `.cpp`, `.js`, `.html`, `.css`
+- ⚙️ I use daily: `.py`, **Flask**, **Django**
 - 🔭 Currently working on personal AI/ML backend projects
 - 🎯 Goals: Contribute to open-source, crack GSoC, and build privacy-first applications
 
@@ -61,6 +61,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" />
+
 </p>
 
 ---
