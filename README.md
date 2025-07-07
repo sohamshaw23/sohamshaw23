@@ -32,14 +32,12 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/sohamshaw" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+    <img alt="LinkedIn" src="www.linkedin.com/in/soham-shaw-3b86a42aa" />
   </a>
-  <a href="https://instagram.com/sohamshaw" target="_blank">
+  <a href="https://www.instagram.com/_soham_shaw?igsh=b3Nkd3V3NWIzaDA3" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-e4405f?logo=instagram&style=for-the-badge" />
   </a>
-  <a href="https://behance.net/sohamshaw" target="_blank">
-    <img alt="Behance" src="https://img.shields.io/badge/Behance-1769ff?logo=behance&style=for-the-badge" />
-  </a>
+  
 </p>
 
 ---
