@@ -30,9 +30,9 @@
 
 ### 📬 Connect with me
 
-<p align="left">
-  <a href="https://linkedin.com/in/sohamshaw" target="_blank">
-    <img alt="LinkedIn" src="www.linkedin.com/in/soham-shaw-3b86a42aa" />
+ <p align="left">
+  <a href="www.linkedin.com/in/soham-shaw-3b86a42aa" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
   <a href="https://www.instagram.com/_soham_shaw?igsh=b3Nkd3V3NWIzaDA3" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-e4405f?logo=instagram&style=for-the-badge" />
