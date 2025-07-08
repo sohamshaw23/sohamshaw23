@@ -24,7 +24,7 @@
 - 🧠 Exploring **Artificial Intelligence**, **Machine Learning**, and **Backend Development**
 - ⚙️ I use daily: `.py`, **Flask**, **Django**
 - 🔭 Currently working on personal AI/ML backend projects
-- 🎯 Goals: Contribute to open-source, crack GSoC, and build privacy-first applications
+- 🎯 Goals: Contribute to open-source, build craetive and seamless backend codes, build ai/ml models
 
 ---
 
