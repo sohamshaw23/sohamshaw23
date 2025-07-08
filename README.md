@@ -13,7 +13,7 @@
   <p>
     👨‍💻 All of my projects are available at <a href="https://github.com/sohamshaw23/sohamshaw23/blob/main/tempImageETMuJ8.jpeg">https://sohamshaw.github.io/</a>  
     <br>
-    📫 How to reach me: <a href="mailto:sohamshaw2306@gmail.com">sohamshaw404@gmail.com</a>
+    📫 How to reach me: <a href="mailto:sohamshaw2306@gmail.com">sohamshaw2306@gmail.com</a>
   </p>
 </div>
 
