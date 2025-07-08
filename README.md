@@ -72,8 +72,8 @@
 
 <!-- Use a real stats tool here if needed -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohamshaw&show_icons=true&theme=dark" alt="Soham's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sohamshaw23&show_icons=true&theme=dark" alt="Soham's GitHub stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamshaw&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamshaw23&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
